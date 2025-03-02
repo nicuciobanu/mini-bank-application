@@ -42,4 +42,4 @@ curl --location --request PUT 'localhost:8080/bank/80561948-4176-4435-9e4d-bc6bd
     "amount": 250000
 }'
 
-### Sources of inspiration: https://blog.rockthejvm.com/akka-cassandra-project/
+###### Sources of inspiration: https://blog.rockthejvm.com/akka-cassandra-project/
